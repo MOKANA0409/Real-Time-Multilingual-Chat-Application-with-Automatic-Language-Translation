@@ -1,0 +1,14 @@
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\bin\Debug\ChatClientApp.exe.config
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\bin\Debug\ChatClientApp.exe
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\bin\Debug\ChatClientApp.pdb
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\bin\Debug\Newtonsoft.Json.dll
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\bin\Debug\Newtonsoft.Json.xml
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\obj\Debug\ChatClientApp.csproj.AssemblyReference.cache
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\obj\Debug\ChatClientApp.Form1.resources
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\obj\Debug\ChatClientApp.Properties.Resources.resources
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\obj\Debug\ChatClientApp.csproj.GenerateResource.cache
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\obj\Debug\ChatClientApp.csproj.CoreCompileInputs.cache
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\obj\Debug\ChatClie.42131F76.Up2Date
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\obj\Debug\ChatClientApp.exe
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\obj\Debug\ChatClientApp.pdb
+C:\Users\mokan\source\repos\ChatClientApp\ChatClientApp\obj\Debug\ChatClientApp.exe.config
